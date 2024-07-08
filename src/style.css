@@ -1,0 +1,21 @@
+* {
+    /* border: 1px lightcoral solid; */
+    background-color: lightgray;
+}
+
+#taskDialog {
+    width: 500px;
+    height: 600px;
+}
+
+/* Modal */
+
+.taskModal {
+    width: 300px;
+}
+
+.addtaskform input {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
